@@ -1,0 +1,2 @@
+This is sam.txt file. this is a way for us to render this file.
+Both file here in this static folder is useless and just for looking.
